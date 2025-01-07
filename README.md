@@ -54,3 +54,4 @@ MobiPerformance/
 ├── machine_learning.py         # Scripts for training predictive models
 ├── main.py                     # Main entry point
 ├── requirements.txt            # List of dependencies
+├── README.md                   # Project documentation
