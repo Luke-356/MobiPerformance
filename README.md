@@ -44,14 +44,3 @@ The dataset is sourced from a Wikipedia page on smartphone comparisons. It inclu
     ```bash
     python main.py
     ```
-
-## Folder Structure
-```plaintext
-MobiPerformance/
-├── data_collection.py          # Scripts for collecting data
-├── data_preprocessing.py       # Scripts for cleaning and preparing data
-├── data_visualization.py       # Scripts for visualizing data
-├── machine_learning.py         # Scripts for training predictive models
-├── main.py                     # Main entry point
-├── requirements.txt            # List of dependencies
-├── README.md                   # Project documentation
