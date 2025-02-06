@@ -1,6 +1,6 @@
-# MobiPerformance
+# MobiRank
 
-MobiPerformance is a data analysis project aimed at helping consumers find the best smartphones for their budget. By ranking smartphones based on their "Value Score," the project provides insights into smartphone performance, camera quality, battery life, and price.
+MobiRank is a data analysis project aimed at helping consumers find the best smartphones for their budget. By ranking smartphones based on their "Value Score," the project provides insights into smartphone performance, camera quality, battery life, and price.
 
 ## Features
 - **Data Cleaning**: Ensures the dataset is accurate and free from inconsistencies.
@@ -29,7 +29,7 @@ The dataset is sourced from a Wikipedia page on smartphone comparisons. It inclu
 ### Steps to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Luke-356/MobiPerformance.git
+    git clone https://github.com/Luke-356/MobiRank.git
     ```
 2. Navigate to the project folder:
     ```bash
